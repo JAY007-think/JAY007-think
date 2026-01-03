@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/JAY007-think" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JAY007-think" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ZysIunJ150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jay Soni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jay-soni-01a791261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jay Soni" height="30" width="40" /></a>
 <a href="http://www.youtube.com/@TechStar.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="JAYz" height="30" width="40" /></a>
 <a href="https://leetcode.com/https://leetcode.com/u/ZysIunJ150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ZysIunJ150/" height="30" width="40" /></a>
 </p>
