@@ -9,7 +9,6 @@
 
 - 🌱 I'm currently learning **Python and c++**
 
-- ⚡ Fun fact **I can demotivate you 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
